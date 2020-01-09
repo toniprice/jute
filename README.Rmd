@@ -1,0 +1,52 @@
+---
+output: github_document
+---
+
+<!-- ======================================================================= -->
+<!-- *** README.md is generated from README.Rmd. Please edit that file! ***  -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+  # comment = "#>",
+  # fig.path = "README-"
+)
+```
+
+<!-- ======================================================================== -->
+# jute <img src="man/figures/logo.png" alt="jute logo" width="40" height="46" align="right" />
+
+The <span class="code">jute</span> R package provides a collection of sundry
+utility functions.
+
+
+<!-- ======================================================================== -->
+## Installation
+
+You can install the development version of <span class="code">jute</span>
+from github with:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")   # [if not already installed]
+devtools::install_github("toniprice/jute")
+```
+
+<!-- ======================================================================== -->
+<!--
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+## basic example code
+```
+-->
+
+<!-- ======================================================================== -->
+------
+<div id = "last-updated">
+Last updated: `r format(Sys.time(), "%a %d %b %Y %H:%M:%S %Z")`
+</div>
+
+<!-- ======================================================================= -->

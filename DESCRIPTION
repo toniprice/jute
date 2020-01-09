@@ -1,0 +1,22 @@
+Package: jute
+Title: Sundry Utility Functions
+Version: 0.1.0
+Authors@R: c(person("Toni", "Price", email = "toni.price@gmail.com",
+    role = c("aut", "cre")))
+Maintainer: Toni Price <toni.price@gmail.com>
+Description: A sundry collection of utility functions in R.
+Depends:
+    R (>= 3.4.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: http://github.com/toniprice/jute
+BugReports: https://github.com/toniprice/jute/issues
+ByteCompile: true
+VignetteBuilder: knitr
+Imports:
+    stringr
+Suggests:
+    knitr,
+    testthat (>= 2.1.0)
+RoxygenNote: 6.1.1

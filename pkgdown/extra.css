@@ -1,0 +1,47 @@
+/*
+// =============================================================================
+// jute
+// The jute R package provides a collection of sundry utility functions.
+// https://toniprice.github.io/jute/dev/
+// =============================================================================
+*/
+
+/* @import url("https://toniprice.github.io/fulcrum/dev/extra.css"); */
+
+/*
+body {
+}
+*/
+
+.logo {
+    margin: 0 5px 5px 5px;
+    padding: 2px;
+    vertical-align: middle;
+    float: right;
+}
+
+.code {
+    font-family:'Lucida Console', monospace;
+}
+
+#last-updated {
+    margin-top: 50px;
+    font-family:'Lucida Console', monospace;
+    font-size: small;
+}
+
+/*
+// // from:
+// // https://www.r-bloggers.com/building-a-website-with-pkgdown-a-short-guide/
+// // [31jul18]
+//
+// .fl      {color: blue;}
+// .fu      {color: blue;}   // function
+// .ch,.st  {color: orange;} // string
+// .kw      {color: black;}  // keyword
+// .co      {color: green;}  // comment
+//
+// .message { color: gray;   font-weight: bolder; }
+// .error   { color: red;    font-weight: bolder; }
+// .warning { color: purple; font-weight: bolder; }
+*/
