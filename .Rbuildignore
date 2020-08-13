@@ -2,6 +2,7 @@
 ^\.Rproj\.user$
 ^docs$
 ^index\.Rmd$
+^index\.html$
 ^_pkgdown\.yml$
 ^pkgdown$
 ^README\.Rmd$

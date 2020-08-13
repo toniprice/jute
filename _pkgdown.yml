@@ -14,56 +14,56 @@ template:
   params:
     bootswatch: flatly
 
-reference:
-  - title: Environment Utilities
-    desc: Utilities for working with R environments
-    contents:
-      - 'place_in_env'
-  - title: Formatting Utilities
-    # desc: >
-    #   Utilities to format data for display
-    contents:
-      - 'fmt_int'
-      - 'get_incremental_names'
-      - 'get_max_int_len'
-      - 'lgl_str'
-      - 'pad_c'
-      - 'pl'
-      - 'stringify_vec'
-      - 'titleize_first'
-  - title: JSON Utilities
-    desc: Utilities for working with JSON
-    contents:
-      - 'compact_json_str'
-  - title: Lookup Utilities
-    desc: Utilities for working with key-description pairs
-    contents:
-      - 'mk_lookup_utils'
-  - title: Mathematical Utilities
-    # desc: Mathematical algorithms/functions and utilities relating to numbers
-    contents:
-      - 'is_int_val'
-      - 'is_invertible'
-      - 'is_sym_pos_def'
-  - title: Miscellaneous Utilities
-    contents:
-      - 'logical_OR'
-      - 'notin'
-      - 'match_col_class'
-      - 'mk_mtx'
-      - 'simplify_lst_lst'
-  - title: Reference Class Utilities
-    desc: Utilities for working with Reference Class objects
-    contents:
-      - 'get_rc_fld_vals'
-  - title: RNG Utilities
-    desc: Utilities relating to the Random Number Generator seed
-    contents:
-      - 'get_random_seed_val'
-      - 'set_init_seed'
-  - title: Statistical Utilities
-    contents:
-      - 'get_stat_mode'
+# reference:
+#   - title: Environment Utilities
+#     desc: Utilities for working with R environments
+#     contents:
+#       - 'place_in_env'
+#   - title: Formatting Utilities
+#     # desc: >
+#     #   Utilities to format data for display
+#     contents:
+#       - 'fmt_int'
+#       - 'get_incremental_names'
+#       - 'get_max_int_len'
+#       - 'logical_to_str'
+#       - 'pad_c'
+#       - 'pl'
+#       - 'stringify_vec'
+#       - 'titleize_first'
+#   - title: JSON Utilities
+#     desc: Utilities for working with JSON
+#     contents:
+#       - 'cat_json_str'
+#   - title: Lookup Utilities
+#     desc: Utilities for working with key-description pairs
+#     contents:
+#       - 'mk_lookup_utils'
+#   - title: Mathematical Utilities
+#     # desc: Mathematical algorithms/functions and utilities relating to numbers
+#     contents:
+#       - 'is_int_val'
+#       - 'is_invertible'
+#       - 'is_sym_pos_def'
+#   - title: Miscellaneous Utilities
+#     contents:
+#       - 'logical_OR'
+#       - 'notin'
+#       - 'match_col_class'
+#       - 'mk_mtx_from_vecs'
+#       - 'simplify_lst_lst'
+#   - title: Reference Class Utilities
+#     desc: Utilities for working with Reference Class objects
+#     contents:
+#       - 'get_rc_fld_vals'
+#   - title: RNG Utilities
+#     desc: Utilities relating to the Random Number Generator seed
+#     contents:
+#       - 'get_random_seed_val'
+#       - 'set_init_seed'
+#   - title: Statistical Utilities
+#     contents:
+#       - 'compute_stat_mode'
 
 navbar:
   title: "jute"

@@ -8,8 +8,7 @@
 # jute <img src="man/figures/logo.png" alt="jute logo" width="40" height="46" align="right" />
 
 The <span class="code">jute</span> R package provides a collection of
-sundry utility
-functions.
+sundry utility functions.
 
 <!-- ======================================================================== -->
 
@@ -40,8 +39,7 @@ This is a basic example which shows you how to solve a common problem:
 
 <div id="last-updated">
 
-Last updated: Thu 09 Jan 2020 14:10:58
-GMT
+Last updated: Thu 13 Aug 2020 09:47:08 BST
 
 </div>
 

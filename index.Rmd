@@ -1,11 +1,11 @@
 ---
 output: html_document
+title:  jute
 ---
 
 <!--
 title:  "README"
 author: "Toni Price"
-date:   "9 January 2020"
 -->
 
 <!-- *** index.html is generated from index.Rmd. Please edit that file! *** -->
@@ -24,10 +24,9 @@ knitr::opts_chunk$set(
 
 <!-- ======================================================================= -->
 <!-- original logo.png dims: width=130, height=150 -->
-# jute <img src="man/figures/logo.png" class="logo" alt="jute logo" width="60" height="72" />
+# <img src="man/figures/logo.png" class="logo" alt="jute logo" width="60" height="72" />
 
 ### author: Toni Price
-### 09 Jan 2020
 
 The <span class="code">jute</span> R package provides a collection of sundry
 utility functions.

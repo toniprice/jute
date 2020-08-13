@@ -4,7 +4,10 @@
     <loc>http://toniprice.github.io/jute/index.html</loc>
   </url>
   <url>
-    <loc>http://toniprice.github.io/jute/reference/compact_json_str.html</loc>
+    <loc>http://toniprice.github.io/jute/reference/cat_json_str.html</loc>
+  </url>
+  <url>
+    <loc>http://toniprice.github.io/jute/reference/compute_stat_mode.html</loc>
   </url>
   <url>
     <loc>http://toniprice.github.io/jute/reference/fmt_int.html</loc>
@@ -22,9 +25,6 @@
     <loc>http://toniprice.github.io/jute/reference/get_rc_fld_vals.html</loc>
   </url>
   <url>
-    <loc>http://toniprice.github.io/jute/reference/get_stat_mode.html</loc>
-  </url>
-  <url>
     <loc>http://toniprice.github.io/jute/reference/is_int_val.html</loc>
   </url>
   <url>
@@ -34,10 +34,10 @@
     <loc>http://toniprice.github.io/jute/reference/is_sym_pos_def.html</loc>
   </url>
   <url>
-    <loc>http://toniprice.github.io/jute/reference/lgl_str.html</loc>
+    <loc>http://toniprice.github.io/jute/reference/logical_OR.html</loc>
   </url>
   <url>
-    <loc>http://toniprice.github.io/jute/reference/logical_OR.html</loc>
+    <loc>http://toniprice.github.io/jute/reference/logical_to_str.html</loc>
   </url>
   <url>
     <loc>http://toniprice.github.io/jute/reference/match_col_class.html</loc>
@@ -46,7 +46,7 @@
     <loc>http://toniprice.github.io/jute/reference/mk_lookup_utils.html</loc>
   </url>
   <url>
-    <loc>http://toniprice.github.io/jute/reference/mk_mtx.html</loc>
+    <loc>http://toniprice.github.io/jute/reference/mk_mtx_from_vecs.html</loc>
   </url>
   <url>
     <loc>http://toniprice.github.io/jute/reference/notin.html</loc>
