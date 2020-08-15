@@ -4,7 +4,7 @@ Version: 0.1.1
 Authors@R: c(person("Toni", "Price", email = "toni.price@gmail.com",
     role = c("aut", "cre")))
 Maintainer: Toni Price <toni.price@gmail.com>
-Description: A sundry collection of utility functions in R.
+Description: A collection of sundry utility functions in R.
 Depends:
     R (>= 3.4.0)
 License: MIT + file LICENSE

@@ -1,5 +1,5 @@
 library(jute)
-context("logical_OR")
+context("logical_or")
 
 # ---------------------------------------------------------------------------- #
 test_that("Infix operator %||% works for NULL left operand", {
