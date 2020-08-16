@@ -39,7 +39,7 @@ This is a basic example which shows you how to solve a common problem:
 
 <div id="last-updated">
 
-Last updated: Sat 15 Aug 2020 17:36:49 BST
+Last updated: Sun 16 Aug 2020 17:22:36 BST
 
 </div>
 

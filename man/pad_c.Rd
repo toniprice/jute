@@ -39,6 +39,7 @@ pad_c(vec1, pad_last = TRUE)
 cat(pad_c(vec1, vec2, collapse = "\n"), "\n")
 
 cat(pad_c(vec1, vec2, vec3, collapse = "\n"), "\n")
+
 }
 \seealso{
 \code{\link[stringr]{str_c}}

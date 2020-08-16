@@ -31,6 +31,7 @@
 #' cat(pad_c(vec1, vec2, collapse = "\n"), "\n")
 #'
 #' cat(pad_c(vec1, vec2, vec3, collapse = "\n"), "\n")
+#'
 #' @export
 pad_c <- function(..., pad_last = FALSE, sep = " ", collapse = NULL) {
   vecs <- list(...)
